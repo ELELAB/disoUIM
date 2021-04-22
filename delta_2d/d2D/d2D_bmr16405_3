@@ -1,0 +1,74 @@
+#d2D - v. 2.0.0
+#(c) Carlo Camilloni
+#PLEASE CITE:
+#Camilloni C., De Simone A., Vranken W., and Vendruscolo M.
+#Determination of Secondary Structure Populations in Disordered States of Proteins using NMR Chemical Shifts
+#Biochemistry 2012, 51: 2224-2231
+
+#SQ:GSLDEDEEDLQRALALSRQEIDMEDEEADLRRAIQLSMQGSSRNLE
+#SS: CCCCCCHHHHHHHHHHCCCCCC CHHHHHHHHHHHHCCCCCCCC 
+
+#Total Populations:
+#Helix(H): 49.4%
+#Extended-Beta(E):  1.6%
+#Polyproline II (PPII)(P):  8.7%
+#Coil(C): 40.2%
+
+#Populations per residue (residues marked with a * are less reliable):
+#num 	 res 	      Helix      Beta       Coil       PPII  SS 
+#1 	 G 	 
+2 	 S 	      0.075      0.025      0.767      0.134 C
+3 	 L 	      0.136      0.031      0.662      0.171 C
+4 	 D 	      0.200      0.022      0.606      0.172 C
+5 	 E 	      0.245      0.014      0.576      0.165 C
+6 	 D 	      0.297      0.011      0.547      0.146 C
+7 	 E 	      0.408      0.008      0.453      0.131 C
+8 	 E 	      0.661      0.004      0.264      0.072 H
+9 	 D 	      0.848      0.001      0.125      0.026 H
+10 	 L 	      0.934      0.000      0.063      0.003 H
+11 	 Q 	      0.933      0.000      0.066      0.001 H
+12 	 R 	      0.913      0.000      0.085      0.002 H
+13 	 A 	      0.920      0.000      0.076      0.003 H
+14 	 L 	      0.933      0.000      0.063      0.004 H
+15 	 A 	      0.890      0.000      0.102      0.008 H
+16 	 L 	      0.748      0.000      0.233      0.019 H
+17 	 S 	      0.553      0.001      0.410      0.036 H
+18 	 R 	      0.421      0.001      0.520      0.058 C
+19 	 Q 	      0.366      0.003      0.552      0.079 C
+20 	 E 	      0.266      0.008      0.615      0.111 C
+21 	 I 	      0.148      0.014      0.704      0.133 C
+22 	 D 	      0.077      0.017      0.768      0.138 C
+23 	 M 	      0.056      0.015      0.794      0.135 C
+#24 	 E 	 
+25 	 D 	      0.287      0.004      0.644      0.064 C
+26 	 E 	      0.501      0.002      0.436      0.061 H
+27 	 E 	      0.579      0.001      0.361      0.058 H
+28 	 A 	      0.667      0.000      0.300      0.033 H
+29 	 D 	      0.677      0.000      0.310      0.013 H
+30 	 L 	      0.809      0.000      0.186      0.004 H
+31 	 R 	      0.896      0.000      0.099      0.004 H
+32 	 R 	      0.931      0.000      0.063      0.005 H
+33 	 A 	      0.935      0.001      0.061      0.004 H
+34 	 I 	      0.946      0.000      0.052      0.003 H
+35 	 Q 	      0.912      0.000      0.084      0.003 H
+36 	 L 	      0.775      0.001      0.213      0.011 H
+37 	 S 	      0.531      0.005      0.430      0.034 H
+38 	 M 	      0.300      0.027      0.593      0.080 C
+39 	 Q 	      0.150      0.068      0.633      0.148 C
+40 	 G 	      0.082      0.112      0.585      0.221 C
+41 	 S 	      0.042      0.093      0.602      0.263 C
+42 	 S 	      0.034      0.058      0.650      0.258 C
+43 	 R 	      0.049      0.041      0.686      0.224 C
+44 	 N 	      0.058      0.051      0.652      0.240 C
+45 	 L 	      0.064      0.054      0.609      0.273 C
+#46 	 E 	 
+#DONE!
+#d2D - v. 2.0.0
+#(c) Carlo Camilloni
+#PLEASE CITE:
+#Camilloni C., De Simone A., Vranken W., and Vendruscolo M.
+#Determination of Secondary Structure Populations in Disordered States of Proteins using NMR Chemical Shifts
+#Biochemistry 2012, 51: 2224-2231
+Done!
+
+NOTES:

@@ -1,0 +1,91 @@
+#d2D - v. 2.0.0
+#(c) Carlo Camilloni
+#PLEASE CITE:
+#Camilloni C., De Simone A., Vranken W., and Vendruscolo M.
+#Determination of Secondary Structure Populations in Disordered States of Proteins using NMR Chemical Shifts
+#Biochemistry 2012, 51: 2224-2231
+
+#SQ:GPLGSRKIAQMTEEEQFALALKMSEQEAREVNSQEEEEEELLRKAIAESLNSCRPSDASATRS
+#SS:  CC CCCCCCCHHHHHHHHHHHHCCCCCCCCCCCCCHHHHH HHHHHCCCC  CCCCCCCC 
+
+#Total Populations:
+#Helix(H): 37.3%
+#Extended-Beta(E):  2.5%
+#Polyproline II (PPII)(P): 10.2%
+#Coil(C): 50.0%
+
+#Populations per residue (residues marked with a * are less reliable):
+#num 	 res 	      Helix      Beta       Coil       PPII  SS 
+#1 	 G 	 
+#2 	 P 	 
+3 	 L 	      0.034      0.059      0.760      0.147 C
+4 	 G 	      0.034      0.067      0.724      0.176 C
+#5 	 S 	 
+6 	 R 	      0.018      0.028      0.831      0.122 C
+7 	 K 	      0.012      0.030      0.798      0.160 C
+8 	 I 	      0.009      0.036      0.751      0.205 C
+9 	 A 	      0.006      0.025      0.748      0.221 C
+10 	 Q 	      0.006      0.022      0.742      0.231 C
+11 	 M 	      0.084      0.026      0.668      0.221 C
+12 	 T 	      0.307      0.030      0.466      0.197 C
+13 	 E 	      0.669      0.017      0.214      0.100 H
+14 	 E 	      0.899      0.005      0.064      0.031 H
+15 	 E 	      0.970      0.000      0.029      0.001 H
+16 	 Q 	      0.952      0.000      0.046      0.001 H
+17 	 F 	      0.922      0.000      0.076      0.002 H
+18 	 A 	      0.922      0.000      0.076      0.002 H
+19 	 L 	      0.908      0.000      0.091      0.002 H
+20 	 A 	      0.896      0.000      0.102      0.002 H
+21 	 L 	      0.869      0.000      0.128      0.003 H
+22 	 K 	      0.817      0.002      0.172      0.009 H
+23 	 M 	      0.702      0.005      0.269      0.024 H
+24 	 S 	      0.507      0.008      0.442      0.043 H
+25 	 E 	      0.322      0.005      0.614      0.060 C
+26 	 Q 	      0.180      0.002      0.735      0.083 C
+27 	 E 	      0.118      0.000      0.750      0.131 C
+28 	 A 	      0.075      0.001      0.764      0.160 C
+29 	 R 	      0.044      0.005      0.772      0.180 C
+30 	 E 	      0.024      0.011      0.765      0.200 C
+31 	 V 	      0.015      0.018      0.751      0.215 C
+32 	 N 	      0.036      0.017      0.721      0.226 C
+33 	 S 	      0.126      0.012      0.654      0.208 C
+34 	 Q 	      0.273      0.006      0.581      0.140 C
+35 	 E 	      0.373      0.003      0.547      0.077 C
+36 	 E 	      0.394      0.001      0.574      0.030 C
+37 	 E 	      0.440      0.001      0.549      0.010 C
+38 	 E 	      0.542      0.000      0.456      0.002 H
+39 	 E 	      0.659      0.000      0.340      0.001 H
+40 	 E 	      0.775      0.000      0.224      0.000 H
+41 	 L 	      0.857      0.000      0.142      0.000 H
+42 	 L 	      0.802      0.000      0.196      0.002 H
+#43 	 R 	 
+44 	 K 	      0.584      0.001      0.409      0.006 H
+45 	 A 	      0.730      0.001      0.262      0.006 H
+46 	 I 	      0.758      0.001      0.228      0.013 H
+47 	 A 	      0.684      0.001      0.287      0.028 H
+48 	 E 	      0.538      0.001      0.411      0.049 H
+49 	 S 	      0.406      0.003      0.533      0.058 C
+50 	 L 	      0.261      0.005      0.669      0.065 C
+51 	 N 	      0.145      0.007      0.760      0.088 C
+52 	 S 	      0.083      0.006      0.791      0.120 C
+#53 	 C 	 
+#54 	 R 	 
+55 	 P 	      0.003      0.322      0.540      0.136 C
+56 	 S 	      0.007      0.286      0.575      0.131 C
+57 	 D 	      0.015      0.148      0.669      0.168 C
+58 	 A 	      0.023      0.046      0.743      0.188 C
+59 	 S 	      0.020      0.004      0.753      0.223 C
+60 	 A 	      0.017      0.014      0.714      0.255 C
+61 	 T 	      0.010      0.034      0.684      0.272 C
+62 	 R 	      0.006      0.061      0.651      0.282 C
+#63 	 S 	 
+#DONE!
+#d2D - v. 2.0.0
+#(c) Carlo Camilloni
+#PLEASE CITE:
+#Camilloni C., De Simone A., Vranken W., and Vendruscolo M.
+#Determination of Secondary Structure Populations in Disordered States of Proteins using NMR Chemical Shifts
+#Biochemistry 2012, 51: 2224-2231
+Done!
+
+NOTES:
