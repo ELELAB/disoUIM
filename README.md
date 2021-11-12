@@ -20,6 +20,10 @@ delta_2D -> prediction of secondary structure propensity from chemical shifts
 helical_wheels -> helical wheels plots
 uims_motifs -> data for logo plot
 
+The files to reproduce the WT-metaD simulations associated with the publication are deposited in the PLUMED-NEST project ID plumID:21.046
+They can be downloaded from here:
+https://www.plumed-nest.org/eggs/21/046/
+
 In the paper we also made usage of the code deposited in:
 
 https://github.com/ELELAB/delta_cs to compare experimental and predicted chemical shifts.
