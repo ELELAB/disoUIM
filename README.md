@@ -4,7 +4,7 @@ Cancer Systems Biology, Section for Bioinformatics, Department of Health and Tec
 Repository associated to the publication:
 
 Ubiquitin Interacting Motifs: duality between structured and disordered motifs
-Matteo Lambrughi, Emiliano Maiani, Burcu Aykac Fas, Gary S. Shaw, Birthe B. Kragelund, Kresten Lindorff-Larsen, Kaare Teilum, Gaetano Invernizzi, Elena Papaleo*, Front Mol Biosci, Front Mol Biosci. 2021, 8:676235. doi:10.3389/fmolb.2021.676235 PMID: 34262938
+Matteo Lambrughi, Emiliano Maiani, Burcu Aykac Fas, Gary S. Shaw, Birthe B. Kragelund, Kresten Lindorff-Larsen, Kaare Teilum, Gaetano Invernizzi, Elena Papaleo*, Front Mol Biosci, 2021, 8:676235, doi:10.3389/fmolb.2021.676235, PMID:34262938
 
 contacts for repository:elenap-at-cancer.dk, elpap-at-dtu.dk
 
